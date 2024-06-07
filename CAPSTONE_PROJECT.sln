@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "CAPSTONE_PROJECT", "CAPSTONE_PROJECT\CAPSTONE_PROJECT.vbproj", "{5E024475-0E6F-44B9-A39F-AA935A875580}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sales & Inventory System", "Sales & Inventory System\Sales & Inventory System.vdproj", "{2C7D2BEB-C735-4AB6-B238-E6018FC8AB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E024475-0E6F-44B9-A39F-AA935A875580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E024475-0E6F-44B9-A39F-AA935A875580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E024475-0E6F-44B9-A39F-AA935A875580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E024475-0E6F-44B9-A39F-AA935A875580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7D2BEB-C735-4AB6-B238-E6018FC8AB12}.Debug|Any CPU.ActiveCfg = Debug
+		{2C7D2BEB-C735-4AB6-B238-E6018FC8AB12}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B771BF7F-651A-498D-8BED-DCC5CD2E3A5A}
+	EndGlobalSection
+EndGlobal
